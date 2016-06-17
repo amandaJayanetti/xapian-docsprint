@@ -1,1 +1,1 @@
-.. xapianinclude:: language_specific/LANGUAGE/index.rst
+.. xapianinclude:: language_specific/R/index.rst
